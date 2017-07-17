@@ -1,7 +1,7 @@
 CHOICES
 
 First Choice: Stick with PB&J.
-Second Choice: ____
+Second Choice: Get to work helping. It would be suspicious to flee the scene!
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
