@@ -3,5 +3,5 @@ CHOICES
 First Choice: Stick with PB&J.
 Second Choice: Get to work helping. It would be suspicious to flee the scene!
 Third Choice: Approach Helga and the Dr. Gotta know more about what is going on!
-Fourth Choice: ____
+Fourth Choice: Talk to them directly. Merely listening in on their convo would be suspicious!
 Fifth Choice: ____
