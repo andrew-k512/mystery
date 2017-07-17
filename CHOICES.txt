@@ -5,4 +5,5 @@ Second Choice: Get to work helping. It would be suspicious to flee the scene!
 Third Choice: Approach Helga and the Dr. Gotta know more about what is going on!
 Fourth Choice: Talk to them directly.
 Fifth Choice: Approach Billy.
-Sixth Choice: Listen to what Billy is saying. 
+Sixth Choice: Listen to what Billy is saying.
+Seventh Choice: Accuse Billy! What kind of suspicious dolt thinks this is a prank!
